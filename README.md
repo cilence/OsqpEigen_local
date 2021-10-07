@@ -1,4 +1,4 @@
-# osqp-eigen
+# osqp-eigen 优化
 
 基于https://github.com/robotology/osqp-eigen 修改
 
